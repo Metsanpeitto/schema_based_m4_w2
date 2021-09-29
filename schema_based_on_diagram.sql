@@ -7,3 +7,10 @@ CREATE TABLE patients (
 );
 
 
+CREATE TABLE  treatments (
+    id              INT GENERATED ALWAYS AS IDENTITY,
+    type            VARCHAR(100),
+    name            VARCHAR(100),
+    PRIMARY KEY(id)
+);
+
