@@ -22,6 +22,12 @@ Exercise: add database schema diagram.
 - LinkedIn: [Abraham Rodriguez](https://www.linkedin.com/in/abraham-rodriguez-3283a319a/)
 - Portfolio: [Waldenberg](https://portfolio.waldenberginc.com)
 
+👤 NGANULO RUSHANIKA Moise
+
+- GitHub: [@githubhandle](https://github.com/moise10r)
+- Twitter: [@twitterhandle](https://twitter.com/MRushanika)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nganulo-rushanika-mo%C3%AFse-626139197/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
