@@ -45,8 +45,6 @@ CREATE TABLE invoice_items(
     PRIMARY KEY (id)
 );
 
-
-
 CREATE TABLE medical_history_treatments (
     medical_history_id  INT,
     treatment_id     INT,
