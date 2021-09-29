@@ -14,3 +14,13 @@ CREATE TABLE  treatments (
     PRIMARY KEY(id)
 );
 
+CREATE TABLE invoices (
+    id               INT GENERATED ALWAYS AS IDENTITY,
+    total_amount     DECIMAL,
+    generated_at     DATE,
+    payed_at         DATE,  
+    medical_history_id INT
+    FOREIGN KEY (medical_history_id) REFERENCES medical_histories(id),
+    PRIMARY KEY (id)
+);
+
